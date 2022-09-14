@@ -4,7 +4,7 @@
  * @int: is the int that will use the argument of the function
  * Return: 0 (Success)
  */
-int _abs(int);
+int _abs(int)
 {
 	if (c < 0 || c == 0)
 	{
