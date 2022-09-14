@@ -6,7 +6,7 @@
  *
  *Return: the result.
  */
-int add(int i, int c);
+int add(int i, int c)
 {
 	int i, c;
 
