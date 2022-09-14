@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- *
- * main - main function
- *
- * Return: always 0
+ * main - a program that computes and prints the sum of multiple
+ *@a is the int
+ * Return: 0 (Success)
  */
 int main(void)
 {
