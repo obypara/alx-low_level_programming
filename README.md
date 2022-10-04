@@ -7,3 +7,4 @@
 0x06-pointers_arrays_strings
 0x08-recursion
 0x09-static_libraries
+0x0B-malloc_free
